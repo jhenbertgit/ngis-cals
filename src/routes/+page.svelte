@@ -1,6 +1,6 @@
 <div class="container h-full mx-auto flex justify-center items-start gap-7 mt-5">
-	<div class="w-1/2 space-y-5">
-		<h1 class="h1">Calculator</h1>
+	<h1 class="h1 text-center">Calculator</h1>
+	<div class="lg:w-1/2 space-y-5">
 		<div class="grid grid-cols-2 gap-4">
 			<button type="button" class="btn btn-xl variant-filled">Calculate POCCE</button>
 			<button type="button" class="btn btn-xl variant-filled">Calculate PSCCE</button>
